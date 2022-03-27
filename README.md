@@ -4,3 +4,5 @@
 
 ### Language and Tools
 ![Django](https://img.shields.io/badge/-Django-black?style=for-the-badge&logo=django)
+![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/-sql-black?style=for-the-badge&logo=sql)
