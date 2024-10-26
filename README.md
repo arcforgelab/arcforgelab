@@ -2,8 +2,6 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Administration database student, hackatons participant from Russia 🇷🇺</h3>
 
-[![ArcForgeLab GitHub Banner](./assets/ANIMILA.png)]()
-
 > Hi, I am an ordinary student from Yakutsk who likes to study many things from IT. Now I have completelyimmered myself in Full-stack development and ~~worked a little with Unity~~ ~~started exploring the possibilities of CI/CD~~ studying microservice architecture
 
 ## Language and Tools
